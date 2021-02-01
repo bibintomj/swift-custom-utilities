@@ -1,1 +1,1 @@
-# swift-custom-utilities
+# A set of utitlies that can be used across projects. 
